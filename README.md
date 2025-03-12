@@ -78,7 +78,7 @@ ng e2e
 ## Architecture
 The following diagram illustrates the architecture of Easy Task:
 
-![Application Architecture](architecture.jpg)
+![Application Architecture](architecture.jpeg)
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
